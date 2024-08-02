@@ -1,4 +1,4 @@
-# OctoMul — CUDA Int8 Tensor Core GEMM
+# QuadMul — CUDA Int4 Tensor Core GEMM
 
 <div align="center">
   <img src="assets/quadmul.jpg" width="320">
